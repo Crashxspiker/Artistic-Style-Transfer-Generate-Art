@@ -1,1 +1,1 @@
-# Artistic-Style-Transfer-Generate-Art-
+# Artistic-Style-Transfer-Generate-Art
