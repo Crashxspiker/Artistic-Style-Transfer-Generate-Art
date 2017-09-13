@@ -31,8 +31,7 @@ It can be improved by training process.
 * Uses VGG16 pretrained model to perform style transfer at various layers in the network
 * Performs normalization and converts RGB to BGR as required by VGG16
 * Uses multiple style images which are transferred onto the specified content image
-* Video style transfer takes a video as the input and then generates an output video by performing style transfer on the individual frames (can use multiple styles as well)
-* Frames concatenated to form a batch input which helps speed up the computation (much faster than running the network for each and every frame seperately)
+
 
 
 
